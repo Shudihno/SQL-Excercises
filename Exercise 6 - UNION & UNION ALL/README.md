@@ -7,7 +7,7 @@ This exercise was completed using Databricks Community Edition with Apache Spark
 ## Contents
 
 * SQL UNIONS Excercise.sql – Solutions for Questions 1–10
-* Bonus.txt/Bonus pdf – Bonus question solutions 1-3
+* Bonus.txt/Bonus.pdf – Bonus question solutions 1-3
 * screenshots/ – Query result screenshots
 
 ## Topics Covered
